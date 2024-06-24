@@ -1,7 +1,7 @@
 spring:
   datasource:
     username: root
-    password: 1234
+    password: mysqlTest@123
     url: jdbc:mysql://localhost:3306/movies
   jpa:
     hibernate:
