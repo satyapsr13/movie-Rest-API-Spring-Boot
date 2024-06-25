@@ -10,7 +10,7 @@ import java.io.IOException;
 import java.io.InputStream;
 
 
-@Service
+
 public interface FileService {
 
     String uploadFile(String path, MultipartFile file) throws IOException;
